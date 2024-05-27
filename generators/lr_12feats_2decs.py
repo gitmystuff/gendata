@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-# lr_12feats_2decs
-
-make_regression 12 features 2 decimal places
-"""
+# make_regression 12 features 2 decimal places
 
 import pandas as pd
 import numpy as np
